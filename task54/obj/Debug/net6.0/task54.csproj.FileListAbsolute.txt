@@ -1,0 +1,15 @@
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\task54.csproj.AssemblyReference.cache
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\task54.GeneratedMSBuildEditorConfig.editorconfig
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\task54.AssemblyInfoInputs.cache
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\task54.AssemblyInfo.cs
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\task54.csproj.CoreCompileInputs.cache
+E:\разработчик GB\c#\homework8\task54\bin\Debug\net6.0\task54.exe
+E:\разработчик GB\c#\homework8\task54\bin\Debug\net6.0\task54.deps.json
+E:\разработчик GB\c#\homework8\task54\bin\Debug\net6.0\task54.runtimeconfig.json
+E:\разработчик GB\c#\homework8\task54\bin\Debug\net6.0\task54.dll
+E:\разработчик GB\c#\homework8\task54\bin\Debug\net6.0\task54.pdb
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\task54.dll
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\refint\task54.dll
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\task54.pdb
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\task54.genruntimeconfig.cache
+E:\разработчик GB\c#\homework8\task54\obj\Debug\net6.0\ref\task54.dll

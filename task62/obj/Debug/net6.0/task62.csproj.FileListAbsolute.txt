@@ -1,0 +1,15 @@
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\task62.csproj.AssemblyReference.cache
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\task62.GeneratedMSBuildEditorConfig.editorconfig
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\task62.AssemblyInfoInputs.cache
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\task62.AssemblyInfo.cs
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\task62.csproj.CoreCompileInputs.cache
+E:\разработчик GB\c#\homework8\task62\bin\Debug\net6.0\task62.exe
+E:\разработчик GB\c#\homework8\task62\bin\Debug\net6.0\task62.deps.json
+E:\разработчик GB\c#\homework8\task62\bin\Debug\net6.0\task62.runtimeconfig.json
+E:\разработчик GB\c#\homework8\task62\bin\Debug\net6.0\task62.dll
+E:\разработчик GB\c#\homework8\task62\bin\Debug\net6.0\task62.pdb
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\task62.dll
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\refint\task62.dll
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\task62.pdb
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\task62.genruntimeconfig.cache
+E:\разработчик GB\c#\homework8\task62\obj\Debug\net6.0\ref\task62.dll
